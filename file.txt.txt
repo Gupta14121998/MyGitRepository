@@ -4,7 +4,7 @@ class HelloGit
 {
 public ststic void main(String[] args)
 {
-sysout("hello Git...");
+System.out.println("hello Git...");
 
 
 
