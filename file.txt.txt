@@ -2,8 +2,11 @@ This is my first git......Welcome to git sigham...!!!!!
 
 class HelloGit
 {
-main()
+public ststic void main(String[] args)
 {
 sysout("hello Git...");
+
+
+
 }
 }
