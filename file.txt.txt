@@ -19,9 +19,7 @@ System.out.println("hello Git...");
 }
 public satic void main()
 {
-HelloGit obj==new HelloGit();
-obj.HelloGit;
-
+HelloGit.HelloGit;
 }
 
 MyBigMethod()
