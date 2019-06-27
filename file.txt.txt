@@ -25,7 +25,7 @@ HelloGit.HelloGit;
 
  public static void MyBigMethod()
 {
-Sysout("method implementation");
+System.out.println("method implementation");
 
 
 
