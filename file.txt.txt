@@ -1,8 +1,8 @@
-This is my first git......Welcome to git sigham...!!!!!
+
 
 class HelloGit
 {
-HelloGit()
+public static final HelloGit(String str)
 {
 sysout("Hello Git....Welcome");
 }
@@ -19,12 +19,15 @@ System.out.println("hello Git...");
 }
 public satic void main()
 {
+
 HelloGit.HelloGit;
 }
 
 MyBigMethod()
 {
 Sysout("method implementation");
+
+
 
 
 }
