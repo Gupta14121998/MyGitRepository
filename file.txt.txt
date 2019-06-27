@@ -23,7 +23,7 @@ public satic void main()
 HelloGit.HelloGit;
 }
 
-MyBigMethod()
+ public static void MyBigMethod()
 {
 Sysout("method implementation");
 
