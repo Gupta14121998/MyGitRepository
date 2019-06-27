@@ -24,4 +24,12 @@ obj.HelloGit;
 
 }
 
+MyBigMethod()
+{
+Sysout("method implementation");
+
+
+}
+
+
 }
