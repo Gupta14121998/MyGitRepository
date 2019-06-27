@@ -2,11 +2,26 @@ This is my first git......Welcome to git sigham...!!!!!
 
 class HelloGit
 {
+HelloGit()
+{
+sysout("Hello Git....Welcome");
+}
+
+
+
 public ststic void main(String[] args)
 {
 System.out.println("hello Git...");
 
 
 
+
 }
+public satic void main()
+{
+HelloGit obj==new HelloGit();
+obj.HelloGit;
+
+}
+
 }
